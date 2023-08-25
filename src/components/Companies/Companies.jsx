@@ -9,7 +9,6 @@ function Companies() {
         <img src="./malabar.png" alt="Not Load" />
         <img src="./caratlane.PNG" alt="Not Load" />
         <img src="./kalyan.png" alt="Not Load" />
-        {/* <img src="" alt="" /> */}
       </div>
     </section>
   );
