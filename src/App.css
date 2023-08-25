@@ -1,7 +1,32 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  position: relative;
+  overflow-x: clip;
+  margin: 0px;
+  padding: 0px;
+}
+.App>:nth-child(1) {
+  /* text-align: center; */
+/* background: var(--black); */
+background-color: black;
+/* background: url(https://media.giphy.com/media/l3q2RgN7WUjeUUXm0/giphy.gif); */
+/* background-color: whitesmoke; */
+/* background: url("../public/gif1.gif"); */
+  position: relative;
+  /* opacity: 0.7; */
+  /* z-index: -1; */
+  /* overflow-x: clip; */
 }
 
+.white-gradient{
+  position: absolute;
+  width: 18rem;
+  height: 18rem;
+  background:rgba(255,255,255,0.6) ;
+
+  filter: blur(52px );
+  border-radius: 1000px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Rings",
+      "price": "47,043",
+      "image": "./diamond/ring.jpg"
+    },
+    {
+      "name": "Brecelet",
+      "price": "66,353",
+      "image": "./diamond/bracelet.png"
+    },
+    {
+      "name": "Chains",
+      "price": "35,853",
+      "image": "./diamond/chain.PNG"
+    },
+    {
+      "name": "Watch",
+      "price": "47,043",
+      "image": "./diamond/watch.PNG"
+    },
+    {
+      "name": "Earrings",
+      "price": "66,353",
+      "image": "./diamond/earrings.PNG"
+    },
+    {
+      "name": "Necklaces",
+      "price": "95,853",
+      "image": "./diamond/necklace.jpg"
+    }
+  ]
+  

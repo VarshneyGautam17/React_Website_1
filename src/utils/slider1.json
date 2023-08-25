@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Rings",
+      "price": "47,043",
+      "image": "./silver/ring.png"
+    },
+    {
+      "name": "Brecelet",
+      "price": "66,353",
+      "image": "./silver/bracelet.jpeg"
+    },
+    {
+      "name": "Coins & Bars",
+      "price": "35,853",
+      "image": "./silver/coin.jpg"
+    },
+    {
+      "name": "Ankels",
+      "price": "47,043",
+      "image": "./silver/payal.jpg"
+    },
+    {
+      "name": "Earrings",
+      "price": "66,353",
+      "image": "./silver/earrings.PNG"
+    },
+    {
+      "name": "Necklaces",
+      "price": "95,853",
+      "image": "./silver/ss1.PNG"
+    }
+  ]
+  

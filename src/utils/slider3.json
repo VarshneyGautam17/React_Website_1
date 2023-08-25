@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Rings",
+      "price": "47,043",
+      "image": "./platinum/ring.PNG"
+    },
+    {
+      "name": "Brecelet",
+      "price": "66,353",
+      "image": "./platinum/bracelet.PNG"
+    },
+    {
+      "name": "Coins & Bars",
+      "price": "35,853",
+      "image": "./platinum/bars.PNG"
+    },
+    {
+      "name": "Watch",
+      "price": "47,043",
+      "image": "./platinum/watch.PNG"
+    },
+    {
+      "name": "Earrings",
+      "price": "66,353",
+      "image": "./platinum/earrings.PNG"
+    },
+    {
+      "name": "Necklaces",
+      "price": "95,853",
+      "image": "./platinum/necklace.PNG"
+    }
+  ]
+  

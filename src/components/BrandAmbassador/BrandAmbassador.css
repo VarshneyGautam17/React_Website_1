@@ -1,0 +1,11 @@
+.row1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+    padding: 0.5rem;
+}
+.item a img{
+    width: 370px;
+    height: 440px;
+    padding-right: 0.5rem;
+}

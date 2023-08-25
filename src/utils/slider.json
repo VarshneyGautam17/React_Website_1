@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rings",
+    "price": "47,043",
+    "image": "./gold/rings.png"
+  },
+  {
+    "name": "Brecelet",
+    "price": "66,353",
+    "image": "./gold/bracelet.jpg"
+  },
+  {
+    "name": "Coins & Bars",
+    "price": "35,853",
+    "image": "./gold/coin.png"
+  },
+  {
+    "name": "Chains",
+    "price": "47,043",
+    "image": "./gold/gold.jpg"
+  },
+  {
+    "name": "Earrings",
+    "price": "66,353",
+    "image": "./gold/earrings.PNG"
+  },
+  {
+    "name": "Necklaces",
+    "price": "95,853",
+    "image": "./gold/necklace.PNG"
+  }
+]

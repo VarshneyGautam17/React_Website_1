@@ -1,0 +1,22 @@
+.c1-left{
+        /* display:flex; */
+        /* justify-content: space-between; */
+}
+.c1-left h1
+{
+    font-size: 34px;
+    font-weight: 500;
+}
+.c1-text{
+    padding: 1rem ;
+    /* margin-right: 7rem; */
+}
+.c1-wrapper{
+    background-color: aliceblue;
+    /* margin-bottom: 2rem; */
+}
+.c1-container{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+}

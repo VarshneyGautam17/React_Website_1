@@ -1,0 +1,81 @@
+.f-wrapper{
+    /* background:url("../../Images/footerback.PNG"); */
+    width: 100%;
+    margin-top: 1px;
+    background-color: black;
+
+}
+.f-container{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: white;
+
+}
+.f-left{
+    width:47%;
+    /* border: 2px solid green; */
+    height: 100%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* margin-top: 8rem; */
+    border-top: 1px solid white;
+
+
+}
+.f-right{
+    width:47%;
+    /* border: 2px solid red; */
+    height: 100%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* margin-right: 1px; */
+    border-top: 1px solid white;
+
+}
+
+.item{
+    /* width: 25%; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: start;
+}
+.item :hover{
+    cursor: pointer;
+}
+.upperpart{
+    color: white;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cer{ 
+    display: flex;
+    /* width: 33%; */
+    align-items: end;
+    justify-content: start;
+    height: 100%;
+    margin-left: 0.5rem;
+}
+.icn{
+    font-size: 1.7rem;
+    /* width: 10%; */
+    /* border: 1px solid white; */
+    display: flex;
+    align-items: end;
+    margin: 0.6rem;
+
+}
+.icn :hover{
+    cursor: pointer;
+}
+.image{
+    width:200px;
+    height: 200px;
+}
+
