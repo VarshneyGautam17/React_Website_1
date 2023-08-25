@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React_Website_1/static/css/main.0e11f595.css",
+    "main.js": "/React_Website_1/static/js/main.97477ae2.js",
+    "static/js/787.0e31295a.chunk.js": "/React_Website_1/static/js/787.0e31295a.chunk.js",
+    "static/media/back.PNG": "/React_Website_1/static/media/back.6fad8470cb29b1d186f4.PNG",
+    "static/media/back2.PNG": "/React_Website_1/static/media/back2.32ac14def894a98e2c12.PNG",
+    "static/media/img1.PNG": "/React_Website_1/static/media/img1.07b3a675496ae20e88f5.PNG",
+    "static/media/model3.PNG": "/React_Website_1/static/media/model3.ca6009f98f7594cf95c5.PNG",
+    "static/media/model1.PNG": "/React_Website_1/static/media/model1.3cc86d10ecd99a7252b3.PNG",
+    "static/media/model2.PNG": "/React_Website_1/static/media/model2.9d1a75a7d9a4d718ea4c.PNG",
+    "static/media/model5.PNG": "/React_Website_1/static/media/model5.cf1a8b3808e06a4cae78.PNG",
+    "static/media/model6.PNG": "/React_Website_1/static/media/model6.5332eaec0cc0c9bb987e.PNG",
+    "static/media/model4.PNG": "/React_Website_1/static/media/model4.a2d213c10f6cd9f3a1f7.PNG",
+    "static/media/Telephone.jpg": "/React_Website_1/static/media/Telephone.b90cea78158afb449333.jpg",
+    "static/media/mainlogo.PNG": "/React_Website_1/static/media/mainlogo.eb9a2f2e40c95602e9da.PNG",
+    "static/media/mainlogo1.PNG": "/React_Website_1/static/media/mainlogo1.c7eb7699baf3a5b8520d.PNG",
+    "static/media/footerdown.PNG": "/React_Website_1/static/media/footerdown.644f74adbe6341fcddaf.PNG",
+    "static/media/cer3.PNG": "/React_Website_1/static/media/cer3.b349fd9f9f9a4e67aacf.PNG",
+    "static/media/cer2.PNG": "/React_Website_1/static/media/cer2.75dba06cdf2a92ea16b1.PNG",
+    "static/media/googlePlay.PNG": "/React_Website_1/static/media/googlePlay.e3dd29b1a32f3f02ccb6.PNG",
+    "static/media/cer1.PNG": "/React_Website_1/static/media/cer1.fafecb16d256546cc160.PNG",
+    "index.html": "/React_Website_1/index.html",
+    "main.0e11f595.css.map": "/React_Website_1/static/css/main.0e11f595.css.map",
+    "main.97477ae2.js.map": "/React_Website_1/static/js/main.97477ae2.js.map",
+    "787.0e31295a.chunk.js.map": "/React_Website_1/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e11f595.css",
+    "static/js/main.97477ae2.js"
+  ]
+}
