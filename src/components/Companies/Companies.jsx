@@ -7,7 +7,7 @@ function Companies() {
       <div className="paddings innerWidth flexCenter com-container">
         <img src="./TanishqLogo.png" alt="Not Load" />
         <img src="./malabar.png" alt="Not Load" />
-        <img src="./caratlane.png" alt="Not Load" />
+        <img src="./caratlane.PNG" alt="Not Load" />
         <img src="./kalyan.png" alt="Not Load" />
         {/* <img src="" alt="" /> */}
       </div>
